@@ -13,4 +13,6 @@
 - O dataset apresenta o seguinte label, se `class` é 0 o registro é de uma transação onde não houve fraude. Por outro lado, se `class` é 1 a transação representa uma fraude.
 
  
+## - Extração de características 
 
+- Nenhum algoritmo de extração de características foi utilizado neste trabalho. O motivo disso é que já tinha sido realizada a transformação PCA (Principal Component Analysis) durante a fase de criação do Dataset.
