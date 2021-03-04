@@ -15,4 +15,4 @@
  
 ## - Extração de características 
 
-- Nenhum algoritmo de extração de características foi utilizado neste trabalho. O motivo disso é que já tinha sido realizada a transformação PCA (Principal Component Analysis) durante a fase de criação do Dataset.
+- Além da transformação PCA (Principal Component Analysis) durante a fase de criação do Dataset que não foi realizada neste trabalho usamos o `mutual_info_classif` com o `SelectKBest` ambos do scikit-learn para selecionar as features mais representativas para o modelo.
