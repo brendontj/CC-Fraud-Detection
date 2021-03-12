@@ -1,0 +1,2 @@
+Obter o dataset utilizado no trabalho atraves do seguinte link:
+https://www.kaggle.com/mlg-ulb/creditcardfraud/download
