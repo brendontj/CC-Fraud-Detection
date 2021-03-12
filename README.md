@@ -17,5 +17,4 @@
 
 - Além da transformação PCA (Principal Component Analysis) durante a fase de criação do Dataset que não foi realizada neste trabalho usamos o `mutual_info_classif` com o `SelectKBest` ambos do scikit-learn para selecionar as features mais representativas para o modelo.
 
-Dupla: Brendon Henrique 
-       Andrey Vasconcelos
+Dupla: Brendon Henrique e Andrey Vasconcelos
